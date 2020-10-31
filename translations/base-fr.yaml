@@ -6,7 +6,7 @@ steamPage:
     intro: >-
         Vous aimez les jeux d’automatisation ? Ce jeu est pour vous !
 
-        shapez.io est un jeu calme où vous devrez construire des usines pour produire automatiquement des formes géométriques. À mesure que le niveau augmente, les formes deviennent de plus en plus
+        shapez.io est un jeu calme où vous devez construire des usines pour produire automatiquement des formes géométriques. À mesure que le niveau augmente, les formes deviennent de plus en plus
         complexes, et vous devrez vous étendre sur la carte infinie.
 
         Et en plus, vous devrez aussi produire de plus en plus pour satisfaire la demande. La seule solution est de construire en plus grand ! Au début vous ne ferez que découper les formes, mais
@@ -45,7 +45,7 @@ steamPage:
         roadmap: Plan de développement
         subreddit: Reddit
         source_code: Code source (GitHub)
-        translate: Aidez à traduire
+        translate: Aidez à traduire ouais aller faite le
 global:
     loading: Chargement
     error: Erreur
